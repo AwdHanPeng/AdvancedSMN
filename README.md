@@ -1,4 +1,4 @@
-# Advanced-SMN
+# AdvancedSMN
 The first homework for NLP course
 
 references:
